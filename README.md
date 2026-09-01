@@ -1,2 +1,3 @@
 # ASE
-Agentic Software Engineering: leveraging artificial intelligence to bring completeness, consistency and correctness, checking to requirement specifications, transformations between phases cogeneration from a single sentence, complete tracing upwards and downwards in a life cycle
+Agentic Software Engineering: leveraging artificial intelligence to bring completeness, consistency and correctness, checking to requirement specifications, 2-way transformations between phases, code generation from a single sentence, complete tracing upwards and downwards in the software development lifecycle.
+Goal is to be able to trace every line of code back to a requirement that it implements so changes to the rules indicate through impact analysis. What code to change changes in the code will cause changes to filter up through the model so models stay in synchronization with the deployed code.
